@@ -108,4 +108,3 @@
 	* [105 高效沟通：好好说话的艺术.md](zhuanlan/左耳听风/105%20%E9%AB%98%E6%95%88%E6%B2%9F%E9%80%9A%EF%BC%9A%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%E7%9A%84%E8%89%BA%E6%9C%AF.md)
 	* [106 加餐 谈谈我的“三观”.md](zhuanlan/左耳听风/106%20%E5%8A%A0%E9%A4%90%20%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E2%80%9C%E4%B8%89%E8%A7%82%E2%80%9D.md)
 	* [107 结束语 业精于勤，行成于思.md](zhuanlan/左耳听风/107%20%E7%BB%93%E6%9D%9F%E8%AF%AD%20%E4%B8%9A%E7%B2%BE%E4%BA%8E%E5%8B%A4%EF%BC%8C%E8%A1%8C%E6%88%90%E4%BA%8E%E6%80%9D.md)
-	* [README.md](zhuanlan/左耳听风/README.md)
