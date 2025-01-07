@@ -11,3 +11,5 @@
 * [Python核心技术与实战](zhuanlan/Python核心技术与实战/README.md)
 
 * [Python自动化办公实战课](zhuanlan/Python自动化办公实战课/README.md)
+
+* [恋爱必修课](zhuanlan/恋爱必修课/README.md)
